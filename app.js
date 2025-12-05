@@ -1,7 +1,6 @@
 import express from "express";
 import cors from "cors";
 import path from "path";
-import articlesRouter from "./routers/articlesRouter.js";
 import productsRouter from "./routers/productsRouter.js";
 import commentsRouter from "./routers/commentsRouter.js";
 import imagesRouter from "./routers/imagesRouter.js";
